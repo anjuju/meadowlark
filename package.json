@@ -1,0 +1,21 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "sample site for Node Express book",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express3-handlebars": "^0.5.2",
+    "jquery": "^3.3.1",
+    "sudo": "^1.0.3"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}

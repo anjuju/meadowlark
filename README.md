@@ -1,2 +1,1 @@
-# meadowlark
-Web Development with Node and Express by Ethan Brown
+sample site for Node Express book
